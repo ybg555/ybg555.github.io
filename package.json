@@ -1,0 +1,28 @@
+{
+  "name": "document",
+  "version": "1.0.0",
+  "description": "vuepress generate document",
+  "main": "",
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "keywords": [
+    "vuepress",
+    "document",
+    "doc"
+  ],
+  "author": "bigang.ybg",
+  "license": "MIT",
+  "bugs": {
+    "url": ""
+  },
+  "homepage": "",
+  "devDependencies": {
+    "vuepress": "^1.0.0-alpha.30"
+  }
+}
