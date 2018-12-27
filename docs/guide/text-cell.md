@@ -2,7 +2,7 @@
 列表项，左边 title、右边内容的格式；一些详情页用的比较多。
 
 ## 示例图
-![](/images/text-cell.jpg)
+![](../.vuepress/public/images/text-cell.jpg)
 
 ## 代码演示
 依赖

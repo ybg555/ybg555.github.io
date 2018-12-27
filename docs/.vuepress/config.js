@@ -27,9 +27,9 @@ module.exports = {
   themeConfig: {
     sidebarDepth: 0,
     activeHeaderLinks: false, // 嵌套的标题链接和 URL 中的 Hash同步更新；可提升性能
-    editLinks: true,
     repo: 'ybg555/ybg555.github.io',
-    repoLabel: '查看源码',
+    editLinks: true,
+    docsDir: 'docs',
     locales: {
       '/': { // 多语言-根目录时
         label: '简体中文',

@@ -2,7 +2,7 @@
 面板，页面的基础结构布局。包含标题和内容2块区域。
 
 ## 示例图
-![](/images/panel.jpg)
+![](../.vuepress/public/images/panel.jpg)
 
 ## 代码演示
 依赖
