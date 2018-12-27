@@ -1,8 +1,8 @@
 // https://github.com/aygtech/aygtech.github.io/blob/master/docs/.vuepress/config.js
 // https://zhuanlan.zhihu.com/p/36390666
 module.exports = {
-  base: '/hm-ui/',
-  dest: 'hm-ui',
+  base: '/timeline/',
+  dest: 'timeline',
   host: '0.0.0.0',
   port: 9000,
   head: [
