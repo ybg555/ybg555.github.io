@@ -5,7 +5,9 @@
   "main": "",
   "scripts": {
     "docs:dev": "vuepress dev docs",
-    "docs:build": "vuepress build docs"
+    "docs:build": "vuepress build docs",
+    "docs-timeline:dev": "vuepress dev docs-timeline",
+    "docs-timeline:build": "vuepress build docs-timeline"
   },
   "repository": {
     "type": "git",
