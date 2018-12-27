@@ -27,7 +27,7 @@ slot 用法
 | labelWidth | 标题宽度 |  Number | － | 120 |
 | text | 内容 |  String | － | - |
 
-## slot
+## slot（定制）
 * name="prefix"
 * 默认
 
